@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ElectroAudio_logo.jpg"
+  avatar           : "ea_logo.png"
   name             : "La Gitane"
   pronouns         : # example: "she/her"  
   bio              : "ElectroAudio is my musical artificial alter ego, which is an audio-to-audio model's architecture and training process."
@@ -123,7 +123,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
