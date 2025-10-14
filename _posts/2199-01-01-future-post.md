@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Test blog post'
+date: 2025-10-14
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Test blog post
+Test blog post !
