@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ea_logo.png"
+  avatar           : "images/ea_logo.png"
   name             : "La Gitane"
   pronouns         : # example: "she/her"  
   bio              : "ElectroAudio is my musical artificial alter ego, which is an audio-to-audio model's architecture and training process."
